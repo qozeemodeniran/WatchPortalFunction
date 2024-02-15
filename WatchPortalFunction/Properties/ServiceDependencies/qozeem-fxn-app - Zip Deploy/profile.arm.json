@@ -7,7 +7,7 @@
   "parameters": {
     "resourceGroupName": {
       "type": "string",
-      "defaultValue": "learn-2667547d-10d3-4ea4-bb86-ded584008b1d",
+      "defaultValue": "learn-6689ef3e-0831-452b-bac1-c707711d5b0f",
       "metadata": {
         "description": "Name of the resource group for the resource. It is recommended to put resources under same resource group for better tracking."
       }
@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "watch-portal-fxn-ap",
+      "defaultValue": "qozeem-fxn-app",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }
